@@ -1,0 +1,4 @@
+# What binary search is
+Binary search is an algorithm which search a sorted array by repeatedly dividing the orginal interval into half.
+
+Reference: https://www.geeksforgeeks.org/binary-search/
